@@ -16,7 +16,7 @@ AI Engineer building production AI systems for e-commerce operations — **RAG k
 
 ## 📌 Quick Overview
 
-- 🔭 **Currently:** AI Engineer @ **Netline Technologies** (USA)
+- 🔭 **Currently:** Associate Software Engineer (AI & Automation) @ **Netline Technologies** (USA)
 - 🎯 **Specialization:** Generative AI, LLMs, RAG systems, agentic AI, LLM data pipelines, and AI automation for retail and e-commerce
 - 🎓 **Education:** M.S. in Data Analytics, University of Central Florida
 - 📍 **Based in:** USA
